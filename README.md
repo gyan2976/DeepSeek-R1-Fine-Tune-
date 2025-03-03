@@ -1,5 +1,5 @@
-# DeepSeek-R1-Fine-Tune
-This project fine-tunes the DeepSeek-R1-Distill-Llama-8B model using the Unsloth library. The model is optimized with LoRA (Low-Rank Adaptation) for efficient training, leveraging 4-bit quantization to balance performance and memory usage. 
+# DeepSeek-R1 Fine-Tune
+This project fine-tunes the **DeepSeek-R1-Distill-Llama-8B** model using the **Unsloth** library. The model is optimized with **LoRA (Low-Rank Adaptation)** for efficient training, leveraging 4-bit quantization to balance performance and memory usage. 
 
 ### LLM Model Configuration
 
